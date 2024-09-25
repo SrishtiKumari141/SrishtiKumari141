@@ -1,38 +1,36 @@
-## Hi there 👋
+# Hi there, I'm [Srishti Kumari] 👋
 
-<h1 align="center">Hi 👋, I'm Srishti Kumari</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+![Your Profile Image](https://via.placeholder.com/150) <!-- Replace with your image URL -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srishtikumari141&label=Profile%20views&color=0e75b6&style=flat" alt="srishtikumari141" /> </p>
+## About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srishtikumari141" alt="srishtikumari141" /></a> </p>
+I'm a passionate Data Analyst with a strong foundation in data manipulation, analysis, and visualization. I love turning raw data into actionable insights that help drive business decisions.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### Skills
 
-- 🔭 I’m currently working on **Digital Music Store Analysis**
+- **Programming Languages:** Python, SQL
+- **Data Visualization:** Power BI
+- **Data Manipulation:** Microsoft Excel
+- **Tools & Technologies:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, Tableau
 
-- 🌱 I’m currently learning **Python**
+### Projects
 
-- 🤝 I’m looking for help with **Data Analyst**
+Here are some of the projects I've worked on:
 
-- 💬 Ask me about **Data Analyst**
+- **[Digital Music Store Analysis](link-to-your-project)**: A brief description of the project and technologies used.
+- **[Project Title 2](link-to-your-project)**: A brief description of the project and technologies used.
+- **[Project Title 3](link-to-your-project)**: A brief description of the project and technologies used.
 
-- 📫 How to reach me **kumarisrishti@gmail.com**
+### Get in Touch
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/srishti kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srishti kumari" height="30" width="40" /></a>
-<a href="https://instagram.com/srishti dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srishti dubey" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kuchhpadho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kuchhpadho" height="30" width="40" /></a>
-</p>
+- 📧 Email: [kumarisrishtibca19@gmail.com]
+- 🌐 LinkedIn: [https://www.linkedin.com/in/srishti-kumari-a56010233](https://www.linkedin.com/in/yourprofile)
+- 💼 Portfolio: [Your Portfolio Website](https://yourportfolio.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Fun Fact
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srishtikumari141&show_icons=true&locale=en&layout=compact" alt="srishtikumari141" /></p>
+I love exploring data sets and discovering hidden trends! When I’m not analyzing data, you can find me [hobby/interest, e.g., hiking, reading, or playing video games].
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srishtikumari141&show_icons=true&locale=en" alt="srishtikumari141" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishtikumari141&" alt="srishtikumari141" /></p>
-
--->
+Thanks for stopping by! Feel free to check out my repositories and connect with me. Let’s collaborate on data-driven solutions!
