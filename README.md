@@ -15,11 +15,11 @@ I'm a passionate Data Analyst with a strong foundation in data manipulation, ana
 
 Here are some of the projects I've worked on:
 
-- **[Digital Music Store Analysis](link-to-your-project)**: A brief description of the project and technologies used.
+- **[Digital Music Store Analysis](link-to-your-project)**
 
 ### Get in Touch
 
-- 📧 Email: [kumarisrishtibca19@gmail.com]
+- 📧 Email: kumarisrishtibca19@gmail.com
 - 🌐 LinkedIn: [https://www.linkedin.com/in/srishti-kumari-a56010233](https://www.linkedin.com/in/yourprofile)
 
 
