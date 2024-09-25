@@ -1,4 +1,4 @@
-# Hi there, I'm [Srishti Kumari] 👋
+# Hi there, I'm Srishti Kumari👋
 
 ## About Me
 
